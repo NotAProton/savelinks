@@ -19,9 +19,9 @@ Download the extension from the releases page and install it in your browser. On
 
 ## Usage
 
-To use the extension, click on the icon in the browser toolbar. This will open the extension popup, where you can save links by clicking the "Save" button. You can also view your saved links by clicking the "View" button.
+To use the extension, click on the icon in the browser toolbar. This will open the extension popup, where you can save links by clicking the “Save” button. You can also view your saved links by clicking the “View” button.
 
-On the View page, you can see all your saved links and share them by clicking the "Share Links" button. This will give you a sharable link that you can send to others.
+On the View page, you can see all your saved links and share them by clicking the “Share Links” button. This will give you a sharable link that you can send to others.
 
 ## Compiling
 
