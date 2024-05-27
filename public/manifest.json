@@ -1,0 +1,18 @@
+{
+  "name": "Save Links",
+  "description": "Save and share ",
+  "version": "1.1",
+  "manifest_version": 3,
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnNrDcwUwvSe5nI9qIwh+WdcGfoDWnCR1qOqhKX/bmKg8IorxVxLxsjVOIjUV+b/jr5/RuRsT1KWwbNapw4kHWgYFv4c2WjRfn9c7bqzP7prXM9xfFs54UWG1UNLsft9FU2XHdC9eTO0DxUYa69WKpOCbxgiI3ewEJ+U4JdnqzdwNIRwCo+2g2g7W/s+Mpu4xPL8NWTmlAPbA11K8SPUBB3ZXhnabULjmttrVLtFIF7Ux3QgiRRh/EsAljj+0Y9z+2hh6yAi6+rLpTTmBjHjmUAB25sR9wqmULHFqFD3knmvdTitPpDQuaes7qfw4g+ET61JbR9YUc292uU5Oo6MloQIDAQAB",
+  "permissions": ["tabs", "storage"],
+  "action": {
+    "default_title": "Save Links",
+    "default_popup": "index.html#popup"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["index.html"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
