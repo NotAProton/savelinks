@@ -1,14 +1,16 @@
 # Save Links
 
+> Read more about the design of this project [notaproton.me/savelinks](https://notaproton.me/savelinks)
+
 This product follows a microservices architecture, composed of the following services:
 
-- [Backend](./backend/README.md)
+- [Backend](https://github.com/notaproton/savelinksserver)
   Built with Node.js as event-driven functions hosted on Cloudflare.
 
-- [Frontend: Extension](./frontend/extension/README.md)
+- [Frontend: Extension](https://github.com/notaproton/savelinks)
   Built with Vite+React as an MV-3 browser extension.
 
-- [Frontend: Web](./frontend/web/README.md)
+- [Frontend: Web](https://github.com/notaproton/sharelinks)
   Built with Next.js as a fast SSR web app.
 
 ## Installing
